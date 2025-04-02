@@ -6,6 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
+jena_climate
+MA200
+.venv
+
 # Distribution / packaging
 .Python
 build/
